@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user1",
+      "description": "A woman smiling in a coffee shop.",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYyNjE4NjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "user2",
+      "description": "A man hiking on a mountain trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1571404649666-62eeb5f49351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBoaWtpbmd8ZW58MHx8fHwxNzYyNjE4NjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man hiking"
+    },
+    {
+      "id": "user3",
+      "description": "A person playing a guitar.",
+      "imageUrl": "https://images.unsplash.com/photo-1547357812-4a336d835928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwbGF5aW5nJTIwZ3VpdGFyfGVufDB8fHx8MTc2MjY0OTkzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "playing guitar"
+    },
+    {
+      "id": "user4",
+      "description": "A woman laughing at a park.",
+      "imageUrl": "https://images.unsplash.com/photo-1592621385645-e41659e8aabe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBsYXVnaGluZ3xlbnwwfHx8fDE3NjI1ODM0ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman laughing"
+    },
+    {
+      "id": "user5",
+      "description": "A man reading a book in a library.",
+      "imageUrl": "https://images.unsplash.com/photo-1518457900604-5c973dffdedf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYW4lMjByZWFkaW5nfGVufDB8fHx8MTc2MjYwNjczN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man reading"
+    },
+    {
+      "id": "user6",
+      "description": "A person painting on a canvas.",
+      "imageUrl": "https://images.unsplash.com/photo-1448932133140-b4045783ed9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBwYWludGluZ3xlbnwwfHx8fDE3NjI2NDYyMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person painting"
+    },
+    {
+      "id": "user7",
+      "description": "A woman doing yoga on a beach.",
+      "imageUrl": "https://images.unsplash.com/photo-1554244933-d876deb6b2ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHlvZ2F8ZW58MHx8fHwxNzYyNjkwODcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman yoga"
+    },
+    {
+      "id": "user8",
+      "description": "A man cooking in a modern kitchen.",
+      "imageUrl": "https://images.unsplash.com/photo-1527034010651-8dcf514bd147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBjb29raW5nfGVufDB8fHx8MTc2MjY1NjMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man cooking"
+    },
+    {
+      "id": "user9",
+      "description": "A person walking a dog in a city.",
+      "imageUrl": "https://images.unsplash.com/photo-1690651448851-8039da15934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3YWxraW5nJTIwZG9nfGVufDB8fHx8MTc2MjY0MDIxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "walking dog"
+    },
+    {
+      "id": "user10",
+      "description": "A woman traveling with a backpack.",
+      "imageUrl": "https://images.unsplash.com/photo-1723544549283-f8ca2292e1c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHRyYXZlbGluZ3xlbnwwfHx8fDE3NjI2OTA4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman traveling"
+    },
+    {
+      "id": "currentUser",
+      "description": "The current user's profile picture.",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8fHwxNzYyNjM4Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "group1",
+      "description": "A group of people hiking.",
+      "imageUrl": "https://images.unsplash.com/photo-1578592391689-0e3d1a1b52b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxncm91cCUyMGhpa2luZ3xlbnwwfHx8fDE3NjI2OTA4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "group hiking"
+    },
+    {
+      "id": "group2",
+      "description": "A table with books and coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1592693281996-fbff6b85041c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxib29rJTIwY2x1YnxlbnwwfHx8fDE3NjI2Njk1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book club"
+    },
+    {
+      "id": "group3",
+      "description": "People cooking together.",
+      "imageUrl": "https://images.unsplash.com/photo-1683105693841-8c81235be472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb29raW5nJTIwY2xhc3N8ZW58MHx8fHwxNzYyNjA5NDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cooking class"
+    },
+    {
+      "id": "group4",
+      "description": "People playing board games.",
+      "imageUrl": "https://images.unsplash.com/photo-1676651471150-0e3a5f8de05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Ym9hcmQlMjBnYW1lc3xlbnwwfHx8fDE3NjI2ODQxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "board games"
+    }
+  ]
+}
